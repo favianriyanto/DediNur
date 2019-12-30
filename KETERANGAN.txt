@@ -1,0 +1,26 @@
+USERNAME & PASSWORD:
+
+dokter
+123456
+level dokter
+
+pegawai
+123456
+level pegawai
+
+favian
+123456
+level dokter
+
+dina
+123456
+level pegawai
+
+
+NAMA DATABASE: apotek
+
+JENIS PROJECT: WEB-BASED PHP
+
+KETERANGAN:
+
+Versi PHP 5.6.23
